@@ -8,9 +8,9 @@ const CONFIG = {
     btnNo: 'Không, t thông minh vcl',
     question:'Hay không',
     btnReply: 'Gửi ý kiến coi thế nào',
-    reply: 'hay',
+    reply: 'm đỉnh quá, đã đẹp trai, thông minh lại còn giỏi',
     mess: 'T biết mà t đỉnh vcl',
     messDesc: 't xem trên tiktok đấy',
-    btnAccept: 'm đỉnh quá',
+    btnAccept: '10 điểm không',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
